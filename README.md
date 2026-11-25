@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ahmed Said Shaker
 
-<!--
-**ahmedsaid114/ahmedsaid114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend .NET Developer from Egypt, building web applications with C#, ASP.NET Core, Entity Framework Core and SQL Server.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, SQL, JavaScript, HTML/CSS
+- **Backend:** ASP.NET Core MVC, Entity Framework Core, LINQ
+- **Data:** Microsoft SQL Server, T-SQL
+- **Frontend:** React.js
+- **Tools:** Git, GitHub, Visual Studio
+
+## Featured projects
+
+- [EcommerceSystem](https://github.com/ahmedsaid114/EcommerceSystem) - full-stack e-commerce store: products, brands, cart, Stripe checkout, admin panel, ASP.NET Core Identity with email confirmation and OTP
+- [TaskCinema](https://github.com/ahmedsaid114/TaskCinema16) - cinema ticket booking: movies, actors, categories, Stripe payments, role-based admin area
+- [HospitalSystem](https://github.com/ahmedsaid114/task11) - doctor and appointment management
+- [ToDoTask](https://github.com/ahmedsaid114/ToDoTask) - task manager with deadlines and file attachments
+
+## Contact
+
+- LinkedIn: [ahmed-said-shaker-180555210](https://www.linkedin.com/in/ahmed-said-shaker-180555210)
